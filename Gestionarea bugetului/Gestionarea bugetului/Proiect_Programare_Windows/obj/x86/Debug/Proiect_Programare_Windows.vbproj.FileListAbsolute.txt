@@ -1,0 +1,26 @@
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.cheltuieli.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.vbproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.exe
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.pdb
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.xml
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.exe
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.xml
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.pdb
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.venituri.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.exe.config
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Proiect_Programare_Windows\Proiect_Programare_Windows\bin\Debug\venit.accdb
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.exe.config
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.exe
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.xml
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.pdb
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\bin\Debug\venit.accdb
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.exe
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.pdb
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\bin\Debug\Proiect_Programare_Windows.xml
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.cheltuieli.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\WindowsApplication1.venituri.resources
+C:\Users\user\OneDrive\Desktop\Gestionarea bugetului\Gestionarea bugetului\Proiect_Programare_Windows\obj\x86\Debug\Proiect_Programare_Windows.vbproj.GenerateResource.Cache
